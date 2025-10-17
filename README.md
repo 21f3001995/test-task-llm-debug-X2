@@ -6,12 +6,12 @@ This repository was automatically generated using the **LLM Code Deployment Stud
 
 ## 📘 Project Brief
 
-Generate a single-page HTML app that:
-1. Reads sales.csv and computes total sales.
-2. Displays total in element #total-sales.
-3. Include console.log for parsed CSV, numeric values, and computed sum.
-4. Load Bootstrap 5 via jsDelivr.
-5. Include MIT License and README.md.
+Update previous page to:
+1. Add a product table (#product-sales).
+2. Add currency selector (#currency-picker) using rates.json.
+3. Display converted total in #total-sales dynamically.
+4. Include console.log for conversion rates and events.
+5. Show Markdown (readme.md) in #markdown-output section.
 
 
 ## ✅ Evaluation Checks
